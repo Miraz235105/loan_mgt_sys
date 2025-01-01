@@ -1,5 +1,7 @@
 # Loan Management System
 
+![Loan Management System](https://github.com/Miraz235105/loan_mgt_sys/blob/main/Loan-mgt.png)
+
 ## Overview
 The **Loan Management System** is a comprehensive platform designed to provide efficient tracking and management of loan details for both customers and administrators. This system ensures that all relevant loan-related data, including personal information, loan terms, payment schedules, and outstanding balances, is consolidated in a single, easy-to-use interface.
 
